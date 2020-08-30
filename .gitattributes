@@ -1,2 +1,2 @@
 datasets/globalterrorismdb_0919dist.xlsx filter=lfs diff=lfs merge=lfs -text
-datasets/globalterrorismdb_0919dist.csv filter=lfs diff=lfs merge=lfs -text
+datasets/globalterrorismcsv.csv filter=lfs diff=lfs merge=lfs -text
